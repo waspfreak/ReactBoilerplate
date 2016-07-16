@@ -1,5 +1,4 @@
 // out: app.css, sourcemap: true, compress: true
 // main: app.scss
-p{
-  color : #777
-}
+@import "base/variables";
+@import "components/navigation";
