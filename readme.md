@@ -1,6 +1,6 @@
-<a href="">DEMO APP </a>
+<a href="http://polar-bayou-48372.herokuapp.com/#/?_k=yh27kj">DEMO APP </a>
 
-<h1>React App boilerplate</h1>
+<h1>React timer App</h1>
 
 run npm install
 
